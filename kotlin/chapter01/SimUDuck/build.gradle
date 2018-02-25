@@ -35,7 +35,7 @@ compileTestKotlin {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'application.MiniDuckSimulatorKt'
+        attributes 'Main-Class': 'application.MainKt'
     }
 
     from {
